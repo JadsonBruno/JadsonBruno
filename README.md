@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jadson Bruno and I'm a Frontend Engineer. I'm from Brazil and currently working at VulcaNet Sistemas e Engenharia.
-I am currently dedicating myself to the Javascript ecosystem, using React, React native and Node.js
+My name is Jadson Bruno and I'm a Frontend Engineer. I'm from Brazil and currently working at ClickBus.
+I am currently dedicating myself to the Javascript ecosystem, using React, Next.js and Node.js
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
